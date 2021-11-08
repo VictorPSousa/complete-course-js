@@ -1,3 +1,11 @@
+:root{
+  --color-indigo-dye: #033F63;
+  --color-ming: #28666E;
+  --color-morning-blue: #7C9885;
+  --color-sage: #B5B682;
+  --color-navajo-white: #FEDC97;
+}
+
 * {
   margin: 0;
   padding: 0;
